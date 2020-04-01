@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494165580864",
+    "firebase_url": "https://android-lanjutan-2dc58.firebaseio.com",
+    "project_id": "android-lanjutan-2dc58",
+    "storage_bucket": "android-lanjutan-2dc58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494165580864:android:36c640ab3bbc9ed48ad3a5",
+        "android_client_info": {
+          "package_name": "com.awak25.authentificationanddatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494165580864-5tvs4d8jj9281iolhf06rfb0ebk7916c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awak25.authentificationanddatabase",
+            "certificate_hash": "5f3477182f807e10b2d977d7577656684041d8ec"
+          }
+        },
+        {
+          "client_id": "494165580864-44142b3vmbkrtek5op57t52h35o9j2d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeorkNqkD_2Sgh_zQGS6lsfALlCJbjs3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494165580864-44142b3vmbkrtek5op57t52h35o9j2d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
